@@ -1,4 +1,4 @@
-# 👋 你好，我是 [你的名字]
+# 👋 你好，我是ZhiKai
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C974B&width=435&lines=热爱编程+%7C+开源爱好者+%7C+全栈开发者" alt="Typing SVG" />
